@@ -1,0 +1,45 @@
+[
+  {
+  "id": 1,
+  "name": "Lagankhel",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  },  {
+  "id": 2,
+  "name": "Jawlakhel",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  },  {
+  "id": 3,
+  "name": "Kalanki",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  },  {
+  "id": 4,
+  "name": "Koteshwor",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  },  {
+  "id": 5,
+  "name": "Gongabu",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  },  {
+  "id": 6,
+  "name": "Ratnapark",
+  "geo": {
+  "lat": "",
+  "lng": ""
+}
+  }
+]
